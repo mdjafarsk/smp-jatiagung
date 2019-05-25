@@ -325,7 +325,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Menciptakan generasi unggul dalam prestasi dengan tetap berpijak pada iman dan taqwa&nbsp;",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BERITA</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"#\" data-toolbar=\"-mbrBtnMove\">BERITA</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
@@ -342,7 +342,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Penerimaan Peserta Didik Baru tahun ajaran 2019-2020 telah di buka ...",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ppdb online</a> ",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"#\" data-toolbar=\"-mbrBtnMove\">BERITA</a>",
                 "overlayOpacity": "0.6",
                 "overlayColor": "#000000"
               },
@@ -361,7 +361,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Menanamkan sikap disiplin, tanggungjawab, mandiri, kreatif, inovatif dan kritis dalam berpikir dilandasi sikap akhlak karimah.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BERITA</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"#\" data-toolbar=\"-mbrBtnMove\">ppdb online</a> "
               }
             ]
           }
