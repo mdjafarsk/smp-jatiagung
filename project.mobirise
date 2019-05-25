@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "Galeri.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1627,39 +1627,6 @@
           ],
           "_name": "feed",
           "_anchor": "feed-v"
-        },
-        {
-          "_params": {
-            "token": "4712317065.727bfe1.fa0812916bbb47cab7e6d9745e4ee767",
-            "showTitle": true,
-            "layoutGridRadio": true,
-            "imagesPerRowGrid": "6",
-            "rows": "1",
-            "showMoreButton": true,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
-            "spacing": "5",
-            "fullWidth": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
-            "overlay": false,
-            "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
-          },
-          "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-10"
         },
         {
           "alias": false,
