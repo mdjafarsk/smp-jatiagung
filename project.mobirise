@@ -957,39 +957,6 @@
           "_params": {}
         },
         {
-          "_params": {
-            "token": "4712317065.727bfe1.fa0812916bbb47cab7e6d9745e4ee767",
-            "showTitle": false,
-            "layoutGridRadio": true,
-            "imagesPerRowGrid": "5",
-            "rows": "2",
-            "showMoreButton": true,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
-            "spacing": "14",
-            "fullWidth": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
-            "overlay": false,
-            "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
-          },
-          "title": "Galeri",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md display-4 btn-secondary\" href=\"#\" data-max-id=\"1978402593815934577_4712317065\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-t"
-        },
-        {
           "alias": false,
           "_styles": {
             "padding-top": "(@paddingTop * 15px)",
