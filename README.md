@@ -1,0 +1,2 @@
+# smp-jatiagung
+GitHub Pages
